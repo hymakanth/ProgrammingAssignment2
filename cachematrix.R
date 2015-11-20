@@ -1,5 +1,5 @@
 ## Caching inverse of matrix and retrieving from cache could be of some benefit 
-## over computing the inverse repeatedly. Below are functions to create a matrix, 
+## over computing the inverse repeatedly. Below are functions to create a matrix 
 ## compute the inverse and return the matrix from cache
 
 ## The first function 'makeCacheMatrix' creates a matrix and returns a list
